@@ -2,7 +2,7 @@
 
 > **Versão do projeto:** Final  
 > **Linguagem:** C (C11) • **Plataforma alvo:** Windows 10/11 (GCC/MinGW) • **Execução:** CLI (interativa e por parâmetros)  
-> **Autores:** Equipe do trabalho (Pedro e grupo) • **Apelido do assistente:** Atlas
+> **Autores:** Equipe do trabalho (Pedro e Gabriela). (Obrigado Atlas).
 
 ---
 
