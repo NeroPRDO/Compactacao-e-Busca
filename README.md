@@ -30,7 +30,7 @@
 - [7. Códigos de Retorno (rc) e Soluções Comuns](#7-códigos-de-retorno-rc-e-soluções-comuns)
 - [8. Boas Práticas, Desempenho e Tunagem](#8-boas-práticas-desempenho-e-tunagem)
 - [9. Perguntas Frequentes (FAQ)](#9-perguntas-frequentes-faq)
-- [10. Guia de Defesa: Domínio](#10-guia-de-defesa-domínio)
+- [10. Domínio](#10-domínio)
 - [11. Estrutura do Repositório](#11-estrutura-do-repositório)
 - [12. Licença e Créditos](#12-licença-e-créditos)
 
@@ -312,10 +312,9 @@ Use o **gerador `gen_story.exe`** (seção [4.4](#44-gerador-de-arquivos-de-test
 
 ---
 
-## 10. Guia de Defesa: Domínio
-- **Explique o porquê**: blocos independentes → **seek seletivo**; índice compacto → **cabe em RAM**; KMP incremental → **encontra fronteiras**.  
-- **Demonstre medição**: Working Set ~ bloco; contagens E2×E3 iguais.  
-- **Trade‑offs**: bloco maior melhora compressão mas aumenta RAM/latência; bloco menor faz o inverso.
+## 10. Domínio
+
+- **Espaço RESERVADO**: Ignorar.
 
 ---
 
